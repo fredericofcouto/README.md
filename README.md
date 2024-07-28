@@ -41,3 +41,11 @@ Este é um sistema simples de gerenciamento de estoque para uma pequena loja, de
 
 ## Estrutura do Projeto
 
+
+## Uso
+
+- Adicione novos produtos através do formulário.
+- Visualize a lista de produtos na tabela.
+- Exclua produtos clicando no botão "Excluir" ao lado do produto desejado.
+
+
